@@ -1,9 +1,9 @@
-# Project Title: Restaurant Reccomendation System using collaborative and content filtering
+# Restaurant Recommendation System using Collaborative and Content filtering
 
 
 # Description: 
 
-The project leverages the Yelp Open Dataset to create a restaurant recommendation system for restaurants in California, primarily in the Santa Barbara area. This restaurant recommendation system is a hybrid model that combines collaborative filtering and content filtering. 
+This machine learning project leverages the Yelp Open Dataset and recommends users new restaurants in the Santa Barbara area based on their learned tastes and requested atmosphere. This recommendation system is a hybrid model that combines collaborative and content filtering. 
 
 Link to dataset: https://www.yelp.com/dataset
 
